@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- wobbly cup -->
+  <path d="M14 26 C13 24 15 23 17 23 L45 23 C47 23 49 24 48 26 L46 44 C45.6 49 42 52 37 52 L25 52 C20 52 16.4 49 16 44 Z"
+        fill="#f6f1e5" stroke="#38322a" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- handle -->
+  <path d="M48 28 C55 27 57 31 55 35 C53.4 38 49 39 46.6 38" fill="none" stroke="#38322a" stroke-width="3.4" stroke-linecap="round"/>
+  <!-- coffee -->
+  <path d="M17 30 L45 30 L44 43 C43.6 46.6 41 49 37 49 L25 49 C21 49 18.4 46.6 18 43 Z" fill="#b4562e"/>
+  <!-- steam -->
+  <path d="M24 10 C23 13 26 14 25 17" fill="none" stroke="#38322a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M33 9 C32 12 35 13 34 16" fill="none" stroke="#38322a" stroke-width="3" stroke-linecap="round"/>
+</svg>
