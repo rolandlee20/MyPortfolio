@@ -144,8 +144,7 @@ export default function Guestbook() {
             every visitor used to leave a comment on old-school personal
             sites, and honestly? we lost something good. bring it back —
             leave a note, a hello, a bug report, a haiku about coffee. it
-            gets saved in your browser and pinned to this wall. no account,
-            server, or database needed.
+            gets saved in your browser and pinned to this wall. no account or sign-up needed.
           </p>
 
           <form onSubmit={sign} className="mt-7 wobble bg-linen p-5 sm:p-6 space-y-4">

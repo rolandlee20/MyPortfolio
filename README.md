@@ -3,7 +3,7 @@
 A hand-built, single-route portfolio for **ryoshicode**, now set up as a fully
 static Next.js site that can be deployed directly to GitHub Pages.
 
-The database has been removed. The visual design, CSS animations, typing
+This version is fully static. The visual design, CSS animations, typing
 terminal, floating doodles, hover effects, and hand-drawn aesthetic are kept.
 
 ## Stack
@@ -54,15 +54,12 @@ The Next.js config automatically uses the repository name as the GitHub Pages
 `basePath` for normal project repositories. If the repository itself is named
 `yourusername.github.io`, it uses the root path instead.
 
-## What changed from the database version
+## What changed for the static version
 
-- Removed Prisma and all database files/configuration.
-- Removed server API routes for status, guestbook, and contact.
-- Removed database/seed commands and environment variables.
 - The visitor counter is now a simple "no tracking" message.
 - Guestbook entries are stored in each visitor's browser with `localStorage`.
   They are **not shared between visitors**.
-- Contact form opens the visitor's email app with a pre-filled message.
+- Contact section now points visitors to Codester or direct email.
 - Kept the existing animations and visual styling.
 
 ## Editing content

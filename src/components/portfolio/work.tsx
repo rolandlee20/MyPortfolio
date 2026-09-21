@@ -98,7 +98,7 @@ function VidoraMockup() {
 
 const VESPER_FEATURES = [
   "lead capture + crm-ready enquiry forms",
-  "showroom booking that writes to a real database",
+  "showroom booking with a polished booking flow",
   "an ai design advisor wired to a live llm",
   "filterable portfolio with saved projects",
   "rebrand the whole thing from one file",
@@ -220,8 +220,8 @@ export default function Work() {
           <div className="wobble-2 bg-linen p-5 rotate-1">
             <p className="font-bold text-ink text-[15px]">this very website</p>
             <p className="text-[13.5px] text-ink-soft mt-1.5 leading-relaxed">
-              built it myself, obviously — the guestbook and visitor counter
-              run on a real database. you&rsquo;re looking at the demo.
+              built it myself, obviously — the guestbook and visitor experience
+              are part of the demo you&rsquo;re looking at.
             </p>
           </div>
           <div className="wobble bg-linen p-5 -rotate-1">

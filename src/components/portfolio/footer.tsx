@@ -33,7 +33,7 @@ export default function SiteFooter() {
 
         <p className="mt-6 text-center sm:text-left font-mono text-[11.5px] text-ink-soft/80">
           © {new Date().getFullYear()} ryoshicode · all rights reserved, all vibes intentional ·
-          no trackers on this page, just you and a little sqlite database
+          no trackers on this page, just good vibes and a little code
         </p>
       </div>
     </footer>
