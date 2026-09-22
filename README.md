@@ -2,9 +2,7 @@
 
 A hand-built, single-route portfolio for **ryoshicode**, now set up as a fully
 static Next.js site that can be deployed directly to GitHub Pages.
-
-This version is fully static. The visual design, CSS animations, typing
-terminal, floating doodles, hover effects, and hand-drawn aesthetic are kept.
+.
 
 ## Stack
 
